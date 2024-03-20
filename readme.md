@@ -3,4 +3,4 @@
 - ☕ - Desenvolvedor FullStack
 - 👨‍💻 - "Palavras bonitas não podem mudar o mundo, transforme-o com atitudes.".
   
-<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,ts,nodejs,androidstudio,java,spring,mysql,postgres" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,java,spring,postgres,aws,docker" /> </div>
