@@ -11,7 +11,7 @@
 #### Technologies I'm Passionate About
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,java,spring,postgres,aws,docker" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,java,spring,hibernate,postgres,aws,docker" alt="Skills" />
 </div>
 
 #### What You'll Find Here
