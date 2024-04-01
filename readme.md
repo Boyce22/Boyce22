@@ -23,7 +23,7 @@
 I currently work as a FullStack Developer at Neki, where I collaborate with a talented team to build cutting-edge software solutions.
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D4D3DAQFqWoyx1NaRxg/image-scale_191_1128/0/1672250809072/neki_it_cover?e=1711540800&v=beta&t=oCQW7idW1fcoU5XDcTEPadYVGdkOArrIaX9yK6F2wX4" alt="Neki Logo" width="100%" />
+  <img src="https://i.ibb.co/VDBVZQQ/image.png" alt="Neki Logo" width="100%" />
 </div>
 
 
