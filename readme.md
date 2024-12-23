@@ -8,7 +8,7 @@ Sou **Desenvolvedor Full Stack**, especialista em **Java/Spring**, com experiên
 ### 💻 **Habilidades Técnicas**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,java,spring,mysql,postgres,aws,docker,kubernetes,kafka,rabbitmq" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,java,spring,mysql,postgres,aws,docker,kafka,rabbitmq" alt="Skills" />
 </div>
 
 ### 🎯 **O Que Você Vai Encontrar Aqui?**
