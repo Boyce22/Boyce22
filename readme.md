@@ -1,6 +1,6 @@
-## 🚀 Bem-vindo à Jornada do Boyce – Transformando Ideias em Código! 👋
-### 👋 Olá, meu nome é **Bernardo Alves** (ou simplesmente **Boyce**)!
-Sou **Desenvolvedor Full Stack** com foco em **Back-End**, especialista em **Java/Spring**
+## 🚀 Bem-vindo à Jornada do Boyce – Entregando Valor com Alta Qualidade! 👋
+### 👋 Olá, meu nome é **Bernardo Alves** (também conhecido como **Boyce**)!
+Sou **Desenvolvedor Full Stack**, especialista em **Java/Spring**, com experiência sólida em **Back-End** e integração de sistemas robustos.
 ### 🧩 **Sobre Mim**
 - 💼 **Desenvolvedor Full Stack** na **Neki**
 - 💡 _"Palavras inspiram, mas as ações transformam. Aprenda, aplique, evolua."_
@@ -8,15 +8,17 @@ Sou **Desenvolvedor Full Stack** com foco em **Back-End**, especialista em **Jav
 ### 💻 **Habilidades Técnicas**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,java,spring,mysql,postgres,aws,docker,kafka,rabbitmq" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nodejs,java,spring,mysql,postgres,aws,docker,kubernetes,kafka,rabbitmq" alt="Skills" />
 </div>
 
 ### 🎯 **O Que Você Vai Encontrar Aqui?**
-- 🛠️ **Projetos Reais**: Aplicações e soluções práticas desenvolvidas em meu dia a dia.
-- 📚 **Conteúdo Educacional**: Exemplo de códigos úteis e tutoriais aprofundados.
-- 🚀 **Inspiração para Desenvolvedores**: Atualizações sobre ferramentas e tecnologias emergentes.
+- 🛠️ **Projetos Reais**: Aplicações práticas e soluções robustas desenvolvidas para atender a diferentes demandas do mercado.
+- 📚 **Conteúdo Técnico**: Exemplos de código bem estruturados, análises profundas e tutoriais que refletem boas práticas.
+- 🚀 **Evolução Constante**: Reflexões sobre o mercado de tecnologia e atualizações sobre ferramentas e arquiteturas inovadoras.
 
-### ⭐ **Vamos Expandir as Possibilidades do Código Juntos!**
-Este espaço é dedicado a compartilhar conhecimento e fomentar ideias que inspirem e impulsionem a comunidade de tecnologia.
+### ⭐ **Colaboração e Inovação em Foco**
+Este espaço é voltado para discussão, aprendizado contínuo e compartilhamento de conhecimento que contribua para a evolução da comunidade tecnológica.
 
-🚀 **Bora construir algo incrível!** 🚀
+💼 **Compromisso com qualidade e impacto positivo a cada linha de código.**
+
+🚀 **Vamos construir futuro e excelência juntos!** 🚀
