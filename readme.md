@@ -2,7 +2,7 @@
 ### 👋 Olá, meu nome é **Bernardo Alves** (também conhecido como **Boyce**)!
 Sou **Desenvolvedor Full Stack**, especialista em **Java/Spring**, com experiência sólida em **Back-End** e integração de sistemas robustos.
 ### 🧩 **Sobre Mim**
-- 💼 **Desenvolvedor Full Stack** na **Neki**
+- 💼 **Desenvolvedor Full Stack**
 - 💡 _"Palavras inspiram, mas as ações transformam. Aprenda, aplique, evolua."_
 
 ### 💻 **Habilidades Técnicas**
